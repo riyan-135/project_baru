@@ -1,0 +1,84 @@
+#header {
+    height: 150px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+#header h1 {
+    margin-left: 50px;
+}
+#header b {
+    margin-left: 50px;
+}
+
+#subheader {
+    background-image: url("img/gambarcoding.png");
+    height: 300px;
+    width: 100%;
+    opacity: 60%;
+    text-align: center;
+    color: white;
+    margin-top: -20px;
+}
+
+#subheader h2 {
+    padding-top: 130px;
+}
+
+#content #form {
+    margin-left: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+#content #form #nama {
+    margin-top: 10px;
+    width: 100px;
+}
+
+#content #form #nama2 {
+    margin-left: 130px;
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+#content #form #email {
+    margin-bottom: 70px;
+    height: 20px;
+    width: 200px;
+}
+
+#content #form #mc {
+    height: 200px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#content img {
+    margin-left: 700px;
+}
+
+#content #address {
+    margin-left: 29px;
+}
+#content #address a {
+    margin-left: -700px;
+}
+
+#footer {
+    background-color: lightgrey;
+    height: 50px;
+    width: 100%;
+}
+
+#footer p {
+    float: left;
+    width: 50%;
+    margin-left: 50px;
+}
+
+#footer i {
+    float: right;
+	width: 50px;
+}
