@@ -1,0 +1,166 @@
+.home {
+	background-color: blue;
+	background-image: linear-gradient(to right, blue, white)
+}
+.header a{
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+}
+.header a:hover{
+	background-color: red
+}
+.header p{
+	color: white;
+	font-weight: bold;
+}
+.header {
+	margin-left: 100px;
+}
+.contact {
+	color: white;
+	margin-left: 100px;
+}
+.button {
+	border-radius: 30px;
+}
+
+.button {
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px;
+	background-color: orange;
+	cursor: pointer;
+	display: inline-block;
+}
+
+.contact button:hover{
+	background-color: white;
+	color: black;
+}
+#content{
+	display: flex;
+}
+.isi{
+	width: 30%;
+	height: 300px;
+	margin: 20px;
+	background-color: white;
+}
+
+#code {
+	font-size:50px;
+	color: red; 
+}
+#code2 {
+	font-size:50px;
+	color: red;
+}
+#code3 {
+	font-size:50px;
+	color: red; 
+}
+.isi h1{
+	color: blue;
+}
+
+#term h1:hover{
+	color: red;
+}
+#term h1{
+	color: blue;
+}
+.tekan {
+ border-radius: 30px; 
+}
+.tekan {
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px;
+	cursor: pointer;
+	display: inline-block;
+}
+#term button:hover{
+	background-color: orange;
+}
+#content h1:hover{
+	color: red;
+}
+#content #code:hover{
+	color: blue;
+}
+#content #code2:hover{
+	color: blue;
+}
+#content #code3:hover{
+	color: blue;
+}
+#project #and{
+	color: blue;
+	text-align: center;
+}
+.Portofolios h1{
+	color: blue;
+}
+.Portofolios h1:hover{
+	color: red;
+}
+.read {
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px;
+	cursor: pointer;
+	display: inline-block;
+}
+.read {
+	border-radius: 30px;
+}
+#project button:hover{
+	background-color: orange;
+}
+
+#wrapper {
+	background-color: lightgrey;
+}
+.fa{
+	padding: 20px;
+  font-size: 12px;
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-facebook {
+  background: white;
+  color: blue;
+}
+.fa-facebook:hover{
+	background-color: blue;
+	color: white;
+}
+.fa-instagram{
+	background-color: white;
+	color: blue;
+}
+.fa-instagram:hover{
+	background-color: purple;
+	color: white;
+}
+#footer{
+	background-color: white;
+}
