@@ -123,3 +123,6 @@ body{
 .fot{
     text-align: center;
 }
+#ide:hover{
+    color:blue;
+}
